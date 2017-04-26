@@ -1,0 +1,19 @@
+{
+  "name": "howowie_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howardwkim/howowie.git"
+  },
+  "author": "Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howardwkim/howowie/issues"
+  },
+  "homepage": "https://github.com/howardwkim/howowie#readme"
+}
